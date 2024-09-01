@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://baterio.github.io/sitemap.html.gz
+Sitemap: https://baterio.github.io/app/sitemap.html.gz
+Sitemap: https://baterio.github.io/assets/sitemap.html.gz
+Sitemap: https://baterio.github.io/css/sitemap.html.gz
+Sitemap: https://baterio.github.io/includes/sitemap.html.gz
+Sitemap: https://baterio.github.io/item/sitemap.html.gz
+Sitemap: https://baterio.github.io/src/sitemap.html.gz
